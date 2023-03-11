@@ -1,0 +1,17 @@
+﻿Console.WriteLine("Poema Concreto");
+Console.WriteLine();
+Console.WriteLine("se");
+Console.WriteLine("nasce");
+Console.WriteLine("morre nasce");
+Console.WriteLine("morre nasce morre");
+Console.WriteLine("              renasce remorre renasce");
+Console.WriteLine("                      remorre renasce");
+Console.WriteLine("                              remorre");
+Console.WriteLine("                                   re");
+Console.WriteLine("                  re");
+Console.WriteLine("                  desnasce");
+Console.WriteLine("         desmorre desnasce");
+Console.WriteLine("desmorre desmorre desnasce");
+Console.WriteLine("                          nascemorrenasce");
+Console.WriteLine("                          morrenasce");
+Console.WriteLine("                          morre se");
